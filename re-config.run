@@ -1,0 +1,7 @@
+#! /bin/sh
+
+#              On first run:
+#1. aclocal  /* for re-create aclocal.m4 */
+#2. intltoolize --force  /* re-make po/Makefile.in.in */
+
+make clean && autoconf && automake && ./configure

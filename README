@@ -1,0 +1,28 @@
+GIMP Plug-In - LDT (Layer Duplicator Tool)
+=====================
+
+Copyright (C) 2012  RemyDev <remy.awm.dev@gmail.com>
+
+LDT (Layer Duplicator Tool) is a Gimp's plugin that provides an easy way to automatically duplicate the layer and apply some transformations and visual effects, such as - rotate, scale, move, blur and others ....
+
+Features added: 
+* - Colorize filter 
+* - Noise Spread 
+* - Drop Shadow 
+* - Animation Options 
+* - Blend layer with FG or BG (for animation) 
+
+
+
+To build and install it, just ...
+
+	./configure
+	make
+	make install
+
+ ... and it's there.
+
+
+
+Happy GIMPing,
+--RemyDev & Mitch!

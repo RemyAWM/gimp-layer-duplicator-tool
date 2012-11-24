@@ -1,0 +1,77 @@
+#Some of these are related to eclipse. So i keep them out of my repo
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+# http://www.gnu.org/software/automake
+
+Makefile.in
+
+# http://www.gnu.org/software/autoconf
+
+/autom4te.cache
+/aclocal.m4
+/compile
+/configure
+/depcomp
+/install-sh
+/missing
+
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+
+
+#files being edited
+*~
+
+# make and build files
+*.stackdump
+*.exe
+*.lst
+*.o
+*.eep
+*.lss
+*.map
+*.sym
+*.a
+*.lib
+*.bak
+*.la
+*.out
+*.app
+*.log
+*.so
+*.so.*
+*.dylib
+*.dll
+*.obj
+
+
+

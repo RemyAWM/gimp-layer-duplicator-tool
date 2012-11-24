@@ -1,0 +1,3 @@
+#! /bin/sh
+
+/bin/echo doly |  /usr/bin/sudo -S /usr/bin/make $1
